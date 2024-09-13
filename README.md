@@ -8,6 +8,8 @@
 
 ## Работа с кодом
 
+Пример приложения тут https://github.com/akrasnov87/BeaconDemo
+
 ### Получение координат в foreground service
 
 1. Создаём сервис
